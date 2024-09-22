@@ -1,8 +1,8 @@
-# 📊 About Me:
+# 🧑‍💻 About Me:
 
-| Name        | Position     | Location        |
+| Full Name   | Position     | Location        |
 |-------------|--------------|-----------------|
-|Tugrul Arslan| Date Engineer| Germany/Hamburg |
+|Tugrul Arslan| Date Engineer| Germany / Hamburg |
 ------------------------------------------------
 
 
