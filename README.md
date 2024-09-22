@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tugrul-arslan/)
 [![Xing](https://img.shields.io/badge/Xing-%23006567.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/Tugrul_Arslan2)
-[![Website](https://img.shields.io/badge/Website-%231E90FF.svg?logo=globe&logoColor=white)]([https://yourhomepage.com](https://www.tugurlarslan.de))
+[![Website](https://img.shields.io/badge/Website-%231E90FF.svg?logo=globe&logoColor=white)](https://www.tugrularslan.de)
 
 
 
