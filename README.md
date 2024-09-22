@@ -38,7 +38,6 @@
 — Bill Gates
 ```
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TuArHH&theme=dark&hide_border=false) </br><p></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuArHH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
